@@ -18,6 +18,10 @@ async function generateQuote(url) {
 }
 generateQuote(quote_Url);
 
+function linkedin(){
+    window.open("https://www.linkedin.com/feed/", "width=800", "height= 500")
+}
+
 
 
 
